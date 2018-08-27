@@ -17,6 +17,7 @@ public class demo {
 		//删除了4
 		//删除了5
 		//删除了6
+		//分支
 		System.out.println(num);
 		System.out.println(num);
 		
