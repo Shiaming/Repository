@@ -8,5 +8,5 @@ package demo;
  *
  */
 public class demo3 {
-
+一世INT   a  =  10;
 }
