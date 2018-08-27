@@ -18,6 +18,7 @@ public class demo {
 		//删除了5
 		//删除了6
 		//分支
+		//主线
 		System.out.println(num);
 		System.out.println(num);
 		
