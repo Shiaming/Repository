@@ -13,6 +13,7 @@ public class demo {
 		//删除了1
 		//删除了2
 		//删除了3
+		//删除了5
 		System.out.println(num);
 		System.out.println(num);
 		
