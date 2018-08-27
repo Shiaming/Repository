@@ -11,6 +11,7 @@ public class demo {
 	public static void main(String[] args) {
 		int num = (int) (Math.random() * 1000000);
 		//删除了1
+		//删除了3
 		System.out.println(num);
 		System.out.println(num);
 		
